@@ -32,7 +32,7 @@
 ### Contato
 
 - **Email:** kaique.hilquias.nunes@gmail.com  
-- **Lattes:** [Clique aqui](https://lattes.cnpq.br/SEU_CODIGO_AQUI)
+
 
 ---
 
