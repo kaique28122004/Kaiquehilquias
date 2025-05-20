@@ -29,13 +29,6 @@
 
 ---
 
-### Estatísticas do GitHub
-
-![Kaique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueHilquias&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueHilquias&layout=compact&theme=github_dark)
-
----
-
 ### Contato
 
 - **Email:** kaique.hilquias.nunes@gmail.com  
